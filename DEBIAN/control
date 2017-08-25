@@ -1,0 +1,9 @@
+Package: cerezo
+Version:
+Maintainer: Jhalo <E-Malil>
+Section: icons
+Source: Jhalo
+Homepage: https://github.com/jhalounix/cerezo/
+Architecture: all
+Priority: optional
+Description: 
